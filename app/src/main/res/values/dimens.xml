@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <dimen name="menu_overlay_align_top">160dp</dimen>
+  <dimen name="feed_overlay_align_top">260dp</dimen>
+  <dimen name="overlay_elevation">4dp</dimen>
+
+  <dimen name="divider_thickness">1dp</dimen>
+  <dimen name="divider_dash_width">3dp</dimen>
+  <dimen name="divider_dash_gap">1dp</dimen>
+
+  <!-- TimeTable -->
+  <!-- 左22dp + 右30dpを差し引いた値が画像幅になりますので16:9で計算できない値にならないよう注意 -->
+  <dimen name="timetable_column_width">148dp</dimen>
+  <dimen name="timetable_column_extra_width">74dp</dimen>
+  <dimen name="timetable_time_base_height">2dp</dimen>
+  <dimen name="timetable_time_extra_height">60dp</dimen><!-- 30分の上下画面外のviewを確保 -->
+  <dimen name="timetable_channel_tab_height">48dp</dimen>
+  <dimen name="timetable_channel_divider_width">1dp</dimen>
+  <dimen name="timetable_channel_log_width">64dp</dimen>
+  <dimen name="timetable_time_side_bar_width">20dp</dimen>
+  <dimen name="timetable_date_line_padding">4dp</dimen>
+  <dimen name="timetable_notification_toggle_size">30dp</dimen>
+  <dimen name="timetable_program_text_margin_left">22dp</dimen>
+  <dimen name="timetable_program_text_margin_right">30dp</dimen>
+  <dimen name="timetable_program_text_without_toggle_margin_right">8dp</dimen>
+  <dimen name="timetable_program_margin">8dp</dimen>
+  <dimen name="timetable_date_overlay_padding">16dp</dimen>
+  <dimen name="timetable_date_overlay_width">234dp</dimen>
+
+  <!-- SlotDetail -->
+  <dimen name="slot_detail_layout_horizontal_padding">88dp</dimen>
+  <dimen name="slot_detail_thumbnails_horizontal_margin">16dp</dimen>
+
+  <!-- Font size -->
+  <dimen name="timetable_time_bar_time_font_size">12sp</dimen>
+  <dimen name="timetable_time_bar_timeunit_font_size">10sp</dimen>
+
+  <!-- Image Size -->
+  <dimen name="image_size_channel_logo">80dp</dimen>
+  <dimen name="image_size_slot_thumbnail_small">128dp</dimen><!-- 16:9で割り切れる値かつ12の倍数 -->
+  <dimen name="image_size_slot_thumbnail_large">256dp</dimen><!-- 16:9で割り切れる値かつ12の倍数 -->
+  <dimen name="image_size_channel_image">90dp</dimen>
+  <dimen name="image_size_lazy_load">32dp</dimen>
+
+</resources>

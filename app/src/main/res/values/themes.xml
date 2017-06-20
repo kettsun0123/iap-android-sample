@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="AppTheme" parent="@style/Theme.Leanback">
+    <item name="android:colorPrimary">@color/black_like</item>
+    <item name="android:colorPrimaryDark">@android:color/black</item>
+    <item name="android:colorAccent">@color/control_color</item>
+    <item name="android:colorControlActivated">@android:color/white</item>
+    <item name="android:windowBackground">@color/black_like</item>
+    <item name="android:windowAllowReturnTransitionOverlap">true</item>
+    <item name="android:windowAllowEnterTransitionOverlap">true</item>
+  </style>
+
+  <style name="AppTheme.Transparent">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:statusBarColor">@android:color/transparent</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+  </style>
+
+  <style name="AppTheme.GuidedStep" parent="@style/Theme.Leanback.GuidedStep">
+    <item name="guidedStepBackground">@color/black_like3</item>
+    <item name="guidedActionsBackground">@color/black_like2</item>
+  </style>
+
+
+</resources>

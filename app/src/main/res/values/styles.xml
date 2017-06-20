@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--&lt;!&ndash; Widget &ndash;&gt;-->
+  <!--<style name="Widget"/>-->
+
+  <!--<style name="Widget.DashedLineView">-->
+    <!--<item name="android:layout_width">match_parent</item>-->
+    <!--<item name="android:layout_height">@dimen/divider_thickness</item>-->
+    <!--<item name="android:color">@color/divider_color</item>-->
+    <!--<item name="atv_dashGap">@dimen/divider_dash_gap</item>-->
+    <!--<item name="atv_dashWidth">@dimen/divider_dash_width</item>-->
+  <!--</style>-->
+
+  <!--<style name="Widget.AspectImageView">-->
+    <!--<item name="android:layout_width">match_parent</item>-->
+    <!--<item name="android:layout_height">wrap_content</item>-->
+    <!--<item name="android:contentDescription">@null</item>-->
+    <!--<item name="atv_xRatio">16</item>-->
+    <!--<item name="atv_yRatio">9</item>-->
+  <!--</style>-->
+
+  <!--<style name="Widget.AutoEllipsizeTextView">-->
+    <!--<item name="android:layout_width">match_parent</item>-->
+    <!--<item name="android:layout_height">wrap_content</item>-->
+    <!--<item name="android:ellipsize">end</item>-->
+  <!--</style>-->
+
+  <!--<style name="Widget.DateGuideView">-->
+    <!--<item name="android:layout_width">match_parent</item>-->
+    <!--<item name="android:layout_height">wrap_content</item>-->
+    <!--<item name="android:paddingBottom">4dp</item>-->
+    <!--<item name="android:paddingLeft">8dp</item>-->
+    <!--<item name="android:paddingRight">8dp</item>-->
+    <!--<item name="android:paddingTop">4dp</item>-->
+  <!--</style>-->
+
+  <!--&lt;!&ndash; TextAppearance &ndash;&gt;-->
+  <!--<style name="TextAppearance" parent="TextAppearance.AppCompat"/>-->
+
+  <!--<style name="TextAppearance.NotoSansRegular">-->
+    <!--<item name="fontPath">@string/font_noto_sans_regular</item>-->
+  <!--</style>-->
+
+  <!--<style name="TextAppearance.NotoSansMedium">-->
+    <!--<item name="fontPath">@string/font_noto_sans_medium</item>-->
+  <!--</style>-->
+
+  <!--<style name="TextAppearance.RobotCondensedRegular">-->
+    <!--<item name="fontPath">@string/font_roboto_condensed_regular</item>-->
+  <!--</style>-->
+
+  <!--<style name="TextAppearance.RobotoMedium">-->
+    <!--<item name="fontPath">@string/font_roboto_medium</item>-->
+  <!--</style>-->
+
+  <!--<style name="TextAppearance.TimeTable"/>-->
+
+  <!--&lt;!&ndash;<style name="TextAppearance.TimeTable.ProgramTime" parent="TextAppearance.NotoSansMedium">&ndash;&gt;-->
+    <!--&lt;!&ndash;<item name="android:textSize">10sp</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;<item name="android:textColor">@color/selector_timetable_program_time</item>&ndash;&gt;-->
+  <!--&lt;!&ndash;</style>&ndash;&gt;-->
+
+  <!--<style name="TextAppearance.TimeTable.ProgramTitle" parent="TextAppearance.NotoSansMedium">-->
+    <!--<item name="android:textSize">10sp</item>-->
+    <!--<item name="android:textColor">@color/primary_text_light</item>-->
+  <!--</style>-->
+
+  <!--<style name="TextAppearance.TimeTable.ProgramSummary" parent="TextAppearance.NotoSansRegular">-->
+    <!--<item name="android:textSize">10sp</item>-->
+    <!--<item name="android:textColor">@color/primary_text_light</item>-->
+  <!--</style>-->
+
+  <!--<style name="TextAppearance.TimeTable.StoppedProgram" parent="TextAppearance.NotoSansMedium">-->
+    <!--<item name="android:textSize">16sp</item>-->
+    <!--<item name="android:textColor">@color/primary_text_dark</item>-->
+  <!--</style>-->
+
+  <!--<style name="TextAppearance.TimeTable.DateGuide" parent="TextAppearance.NotoSansMedium">-->
+    <!--<item name="android:textSize">12sp</item>-->
+    <!--<item name="android:textColor">@color/primary_text_dark</item>-->
+  <!--</style>-->
+
+  <!--<style name="TextAppearance.TimeTable.TimeGuide" parent="TextAppearance.RobotCondensedRegular">-->
+    <!--<item name="android:textSize">14sp</item>-->
+    <!--<item name="android:textColor">@color/primary_text_dark</item>-->
+  <!--</style>-->
+
+</resources>

@@ -1,0 +1,103 @@
+<resources>
+
+  <!-- Color palette -->
+  <color name="accent">@color/sushi</color>
+  <color name="accent_70">#B384BC36</color>
+  <color name="accent_30">#4D84BC36</color>
+  <color name="lima">#6FB900</color>
+  <color name="lima_15">#266FB900</color>
+  <color name="lima_30">#4D6FB900</color>
+  <color name="lima_90">#E66FB900</color>
+  <color name="sushi">#84BC36</color>
+  <color name="black">#000000</color>
+  <color name="black_87">#DE000000</color>
+  <color name="black_70">#B3000000</color>
+  <color name="black_60">#99000000</color>
+  <color name="black_54">#8A000000</color>
+  <color name="black_50">#80000000</color>
+  <color name="black_40">#64000000</color>
+  <color name="black_38">#61000000</color>
+  <color name="black_32">#52000000</color>
+  <color name="black_20">#33000000</color>
+  <color name="black_12">#1F000000</color>
+  <color name="white_90">#E6FFFFFF</color>
+  <color name="white_70">#B3FFFFFF</color>
+  <color name="white_50">#80FFFFFF</color>
+  <color name="white_40">#64FFFFFF</color>
+  <color name="white_30">#4DFFFFFF</color>
+  <color name="white_20">#33FFFFFF</color>
+  <color name="white_12">#1FFFFFFF</color>
+  <color name="white_lilac">#E8E8E8</color>
+  <color name="white_desert">#F8F8F8</color>
+  <color name="white_lilac_40">#64E8E8E8</color>
+  <color name="aluminum">#9B9B9B</color>
+  <color name="iron">#CCCCCC</color>
+  <color name="iron2">#D8D8D8</color>
+  <color name="iron2_20">#33D8D8D8</color>
+  <color name="seashell">#F1F1F1</color>
+  <color name="seashell_40">#64F1F1F1</color>
+  <color name="concrete">#F2F2F2</color>
+  <color name="white_like">#EEEEEE</color>
+  <color name="white_like_70">#B3EEEEEE</color>
+  <color name="white_like_30">#4DEEEEEE</color>
+  <color name="black_like">#111111</color>
+  <color name="black_like2">#2D2D2D</color>
+  <color name="black_like3">#1A1A1A</color>
+  <color name="black_like4">#212121</color>
+  <color name="charcoal">#212224</color>
+  <color name="mine_shaft">#333333</color>
+  <color name="sunshade">#FF9A25</color>
+  <color name="sky">#00B0ED</color>
+  <color name="malibu">#55ACEE</color>
+  <color name="malibu_30">#4D55ACEE</color>
+  <color name="tarawera">#0D364E</color>
+  <color name="crayon_red">#F0163A</color>
+  <color name="carmine_red">#FF0334</color>
+  <color name="folly">#FF004B</color>
+  <color name="rosso_corsa">#D0021B</color>
+  <color name="gainsboro">#DDDDDD</color>
+  <color name="carousel_pink">#FCE4ED</color>
+  <color name="frost">#EDF6DE</color>
+  <color name="sliver_sand">#BBBBBB</color>
+  <color name="tuatara">#373737</color>
+  <color name="ship_gray">#4F4F4F</color>
+
+  <!-- Common -->
+  <color name="control_color">@color/lima</color>
+  <color name="divider_color">@color/black_12</color>
+  <color name="primary_text_dark">@color/white_like</color>
+  <color name="primary_text_light">@color/black_87</color>
+  <color name="secondary_text_dark">@color/white_70</color>
+  <color name="secondary_text_light">@color/black_54</color>
+  <color name="tertiary_text_dark">@color/white_like_30</color>
+  <color name="tertiary_text_light">@color/black_38</color>
+  <color name="ripple_dark">@color/white_20</color>
+  <color name="ripple_light">@color/black_12</color>
+  <color name="overlay_20">@color/black_20</color>
+  <color name="overlay_40">@color/black_40</color>
+  <color name="overlay_50">@color/black_50</color>
+  <color name="overlay_60">@color/black_60</color>
+  <color name="overlay_70">@color/black_70</color>
+
+  <!-- Program -->
+  <color name="program_space_bg_color">@color/concrete</color>
+  <color name="program_archived_bg_color">@color/concrete</color>
+  <color name="program_on_air_bg_color">@color/frost</color>
+  <color name="program_future_bg_color">@android:color/white</color>
+  <color name="program_recorded_bg_color">@color/carousel_pink</color>
+
+  <!-- TimeTable -->
+  <color name="timetable_border_color">@color/iron2</color>
+  <color name="timetable_bg_color">@android:color/white</color>
+  <color name="timetable_live_color">@color/folly</color>
+  <color name="timetable_sidebar_bg_color">@color/lima</color>
+  <color name="timetable_sidebar_fg_color">@android:color/white</color>
+  <color name="timetable_time_guide_bg_color">@color/folly</color>
+  <color name="timetable_date_guide_bg_color">@color/black_like4</color>
+
+  <color name="ondemand_header_color">@color/tuatara</color>
+  <color name="ondemand_item_color">@color/black_like2</color>
+  <color name="ondemand_divdier_color">@color/ship_gray</color>
+  <color name="ondemand_alert_color">@color/crayon_red</color>
+
+</resources>
